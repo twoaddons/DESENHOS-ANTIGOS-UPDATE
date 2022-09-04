@@ -15,3 +15,12 @@
 <info></info>
 </item> 
 *************************************
+
+<item>
+<title>[COLOR silver][B]ZÉ COLMEIA  [/COLOR][/B][COLOR BLUE]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:905804438c888b320009f5c90cd4e0e632fd8dbd</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mrHhLnWINtRinuJFv2PIwz2cOHj.jpg</thumbnail>
+<fanart></fanart>
+<info>Zé Colméia é uma série de desenho animado produzida pela Hanna-Barbera, cujo personagem principal é um urso chamado Yogi Bear (Zé Colmeia). Apareceu pela primeira vez em 1958, como coadjuvante da série do Dom Pixote (The Huckleberry Hound Show). Logo estréia seu próprio show, Com o nome de The Yogi Bear Show, "Show do Zé Colméia", o programa todo tinha meia hora de duração, e era composto de três desenhos animados: Zé Colméia, O Leão da Montanha e O Patinho Duque cada um deles com seis minutos e meio.</info>
+</item> 
+*************************************
